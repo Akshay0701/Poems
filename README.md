@@ -83,5 +83,4 @@ Some of my poems (fiction and reflective) in Marathi.
 
 ---
 
-You can copy this text directly into your GitHub README file. Adjust any lines if needed to better suit your style. Enjoy sharing your Marathi poetry!
 
