@@ -59,7 +59,7 @@ Some of my poems (fiction and reflective) in Marathi.
 
 ---
 
-## निसर्गाचा च प्रश्न
+## सांग ना
 ```
 
 सांग, कधी होता मायेंचा प्रेमळ लढा,  
