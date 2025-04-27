@@ -40,7 +40,7 @@ Some of my poems (fiction and reflective) in Marathi, Urdu, Hindi.
   <summary>एखांत</summary>
   
     एखांताची चाहूल लागते,
-    जेव्हा आभाळ मनात दाटते.
+    जेव्हा आधार मनात उजळते,
     
     दाटलेले खाले बोर आभाळ,
     मनाचे ओन्जल ओळी करते,
