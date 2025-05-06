@@ -103,7 +103,7 @@ Some of my poems (fiction and reflective) in Marathi, Urdu, Hindi.
     दिशा, स्वप्नं, आणि ती —
     सगळंच पडले मागे आता,
     एकटा उरलो वाटेस मी,
-    सावलीलादेखील न उरली साथ आता.
+    सावलीलादेखील न उरली आता.
 
 </details>
 
